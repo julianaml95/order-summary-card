@@ -51,5 +51,5 @@ Users should be able to:
 ## Author
 
 - Website - [Juliana Mora Lopez](https://julianaml95.github.io/Portfolio-ONE/)
-- Frontend Mentor - [@jmora216]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/jmora216))
-- LinkedIn - [Juliana Mora Lopez]([https://www.twitter.com/yourusername](https://www.linkedin.com/in/juliana-mora-l%C3%B3pez-bb7192a7/))
+- Frontend Mentor - [@jmora216](https://www.frontendmentor.io/profile/jmora216)
+- LinkedIn - [Juliana Mora Lopez](https://www.linkedin.com/in/juliana-mora-l%C3%B3pez-bb7192a7/)
